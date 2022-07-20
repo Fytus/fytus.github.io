@@ -16,3 +16,7 @@ excerpt_separator: <!--more-->
 长换行
 
 日本語です。
+
+图片测试：![twilight]({{ site.url }}\images\twilight.png)
+
+测试2：<img src="{{ site.url }}\images\twilight.png" alt="暮色" style="zoom:25%;" />
