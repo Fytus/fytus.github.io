@@ -3,7 +3,10 @@ layout: post
 title:  "中文测试帖子"
 date:   2022-07-14 17:56:37 +0800
 categories: jekyll update
+excerpt_separator: <!--more-->
 ---
+
+这确实是一段是摘要<!--more-->
 
 ### 中文标题（3号）
 
